@@ -1,0 +1,27 @@
+{    
+    "type": "MessageBlock",
+    "name": "White Infinite Message",
+    "descripion": "Can store an infinite number of characters.",
+    "health": 120,
+    "size": 1,
+    "maxNewlines": 65535,
+    "maxTextLength": 65535,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "graphite/150",
+     "copper/150",
+     "silicon/100",
+     "ca-mod-black/50",
+     "ca-mod-white/100",
+     "ca-mod-cyan/100",
+     "ca-mod-magenta/100",
+     "ca-mod-yellow/100",
+     "ca-mod-spectral/50",
+     "ca-mod-invisible/50"
+    ],
+    "rotate": true,
+    "category": "logic",
+    "research": {
+    
+    }
+}

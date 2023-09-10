@@ -1,0 +1,17 @@
+{    
+    "type": "LogicDisplay",
+    "name": "Large Floor Emulator",
+    "health": 40,
+    "size": 1,
+    "displaySize": 160,
+    "buildVisibility": "shown",
+    "requirements": [
+        "silicon/100",
+        "metaglass/70",
+        "ca-mod-black/50",
+        "ca-mod-magenta/50",
+        "ca-mod-yellow/50",
+        "ca-mod-cyan/50"
+    ],
+    "category": "logic"
+}
