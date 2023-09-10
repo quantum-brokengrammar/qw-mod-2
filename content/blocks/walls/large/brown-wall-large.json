@@ -1,0 +1,17 @@
+{    
+    "type": "Wall",
+    "name": "Large Brown Wall",
+    "health": 2400,
+    "size": 2,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/24",
+        "ca-mod-orange/12",
+        "ca-mod-black/12"
+    ],
+    "rotate": true,
+    "category": "defense",
+    "research": {
+    
+    }
+}

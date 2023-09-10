@@ -1,0 +1,26 @@
+{
+    "type": "ItemSource",
+    "name": "Colorable Wall",
+    "description": "A wall that can take the colors of a sorter.",
+    "itemsPerSecond": 0,
+    "health": 800,
+    "size": 1,
+    "buildVisibility": "shown",
+    "blockGroup": "walls",
+    "requirements": [
+        "silicon/6",
+        "thorium/6",
+        "ca-mod-cyan/6",
+        "ca-mod-magenta/6",
+        "ca-mod-yellow/6",
+        "ca-mod-black/6",
+        "ca-mod-white/6",
+        "ca-mod-spectral/6",
+        "ca-mod-invisible/6",
+        "copper/6",
+        "lead/6"
+    ],
+    "rotate": true,
+    "category": "defense",
+    "research": {}
+}
